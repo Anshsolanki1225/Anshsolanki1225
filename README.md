@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Ansh Solanki 👋
 
-<!--
-**Anshsolanki1225/Anshsolanki1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Class 9 Student | 🇮🇳 India  
+🤖 Future MITian | Goal: ₹100 Crore/Year Through AI + Robotics + Engineering  
+💡 Passionate about Coding, Building, and Solving Real Problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Currently Learning
+- Python (Programming Hub + CodeWithHarry)
+- Web Development (HTML, CSS, JavaScript)
+- Arduino & Robotics Basics (TinkerCAD + Simulations)
+- Git & GitHub for project building
+
+---
+
+### 🚀 My 2025 Goal
+> Build strong skills in Python, Web Dev, and Robotics  
+> Upload 6–8 meaningful projects on GitHub  
+> Launch my Portfolio Website  
+> Start my MIT journey with confidence 🌍
+
+---
+
+### 📂 Projects I’m Building
+- 🎮 Number Guessing Game (Python)
+- 🧠 AI Chatbot (Python logic)
+- 📝 To-Do List CLI App
+- 💡 Arduino Traffic Signal Simulation
+- 🌐 My Portfolio Website
+
+---
+
+### 📊 MIT Learning Tracker
+📆 Weekly Goals | 💡 Skills | 🧪 Projects | 🧠 Challenges  
+(Check Notion/PDF tracker to follow my journey.)
+
+---
+
+### 📫 Reach Me
+- Email: Coming Soon
+- Portfolio: Coming Soon
+- GitHub is where my dream begins 👣
+
+---
+
+> “I’m not waiting for the future — I’m building it.” 🔥

@@ -1,12 +1,12 @@
 # Hi there, I'm Ansh Solanki 👋
 
 🎓 Class 9 Student | 🇮🇳 India  
-🤖 Future MITian | Goal: ₹100 Crore/Year Through AI + Robotics + Engineering  
+🤖 Future MITian | 
 💡 Passionate about Coding, Building, and Solving Real Problems
 
 ---
 
-### 🔧 Currently Learning
+### 🔧 Currently learning
 - Python (Programming Hub + CodeWithHarry)
 - Web Development (HTML, CSS, JavaScript)
 - Arduino & Robotics Basics (TinkerCAD + Simulations)

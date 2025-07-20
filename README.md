@@ -22,21 +22,6 @@
 
 ---
 
-### 📂 Projects I’m Building
-- 🎮 Number Guessing Game (Python)
-- 🧠 AI Chatbot (Python logic)
-- 📝 To-Do List CLI App
-- 💡 Arduino Traffic Signal Simulation
-- 🌐 My Portfolio Website
-
----
-
-### 📊 MIT Learning Tracker
-📆 Weekly Goals | 💡 Skills | 🧪 Projects | 🧠 Challenges  
-(Check Notion/PDF tracker to follow my journey.)
-
----
-
 ### 📫 Reach Me
 - Email: Coming Soon
 - Portfolio: Coming Soon
